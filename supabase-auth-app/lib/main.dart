@@ -7,8 +7,8 @@ void main() async {
 
   // Supabase setup
   await Supabase.initialize(
-    url: 'https://asiqunfpbxnetzumiifp.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFzaXF1bmZwYnhuZXR6dW1paWZwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg0NTQ3MjQsImV4cCI6MjA1NDAzMDcyNH0.G5dOxUKFR9s4sqdR5oO_2gm_LLVgHQcmZYMfRXmiEeo',
+    url: 'Yout URL here',
+    anonKey: 'Your API Key here',
     // debug: true,
   );
 
